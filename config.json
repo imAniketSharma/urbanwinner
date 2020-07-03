@@ -2,8 +2,8 @@
     "params":
     {
         "local_server" : "True",
-        "local_uri" : "postgresql://postgres:aniket@localhost/urbanwinner",
-        "prod_uri" : "postgresql://udxgceufmjymxr:987efd4c3009af69a949398f133e936a587361aa443f726009b6b65fac7874f2@ec2-3-91-139-25.compute-1.amazonaws.com:5432/dd0kb8nhbl0b9f?sslmode=require",
+        "local_uri" : "postgresql://postgres:****@localhost/urbanwinner",
+        "prod_uri" : "postgresql://udxgceufmjymxr:987efd4c3009af69a949398f133e936a5873********************@ec2-3-91-139-25.compute-1.amazonaws.com:5432/*******?sslmode=require",
         "fb_url":"https://facebook.com/imAniketSharma",
         "tw_url":"https://twitter.com/this_is_anik",
         "gh_url":"https://github.com/imAniketSharma",
